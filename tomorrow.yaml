@@ -1,6 +1,5 @@
-name: Tomorrow
-slug: tomorrow
-author: Chris Kempson (http://chriskempson.com)
+scheme: "Tomorrow"
+author: "Chris Kempson (http://chriskempson.com)"
 # Light theme, 01-07 is light to dark
 # Same as tomorrow-night but reversed base01-base07
 
